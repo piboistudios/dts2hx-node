@@ -12,6 +12,7 @@
 	"url": "https://github.com/piboistudios/dts2hx-node",
 	"license": "MIT",
 	"contributors": [
+		"piboistudios",
 		"haxiomic"
 	],
 	"dependencies": {},
